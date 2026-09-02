@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # ===== GANTI INI =====
-TOKEN = "PASTE_TOKEN_BOT_KAMU_DISINI"
+TOKEN = "MTU0NDUxNjA4ODk5MjIzOTc1Nw.G4MaJ1.96XnwUsb1I2f5iTnS73wXw49zZ5-ItaemzsFhI"
 
 # ===== SETUP =====
 bot = commands.Bot(command_prefix="+", intents=discord.Intents.all())
